@@ -1,0 +1,217 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #626262;
+    background-color: #FEFEFE;
+    padding: 30px;
+    max-width: 830px;
+    margin: 0px auto 0px auto;
+}
+.page-header {
+    text-align: left;
+    background-color: #FEFEFE;
+    margin: 0px;
+    border-bottom: 0px;
+
+}
+.container-fluid {
+    padding: 20px 15px 20px 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*.stars {
+    width: auto;*/
+
+
+.dates-wide {
+    background-color: rgba(53, 172, 112, 0.8);
+    border-radius: 3px;
+    color: #FEFEFE;
+    padding: 3px;
+    max-width: 180px;
+    text-align: left;
+}
+
+.dates {
+    background-color: rgba(53, 172, 112, 0.8);
+    border-radius: 3px;
+    color: #FEFEFE;
+    padding: 3px;
+    max-width: 90px;
+    text-align: left;
+}
+element.style {
+    rgba(53, 172, 112, 0.7)
+}
+p {
+    margin: 0;
+    text-align: justify;
+}
+.box {
+    text-align: left;
+}
+.school{
+    text-align: left;
+}
+h1,
+.h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #626262;
+    margin-top: 0;
+    padding-top: 0;
+}
+h3,
+.h3 {
+    font-size: 40px;
+    color: #DBDBDB;
+    font-weight: normal;
+}
+h2,
+.h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.contact{
+    margin-top: 70px;
+    color: #DBDBDB;
+}
+h4,
+.h4{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.project-title {
+    font-weight: normal;
+}
+h6,
+.h6 {
+    font-size: 15px;
+    color: #DBDBDB;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-flex;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 2px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #FEFEFE;
+    margin: 0px;
+    border-radius: 5px;
+    text-align: justify;
+}
+.col-xs-6, .jobs-wide {
+    width:;
+}
+@media (min-width: 768px) {
+    .col-sm-6 {
+        width: 50%;
+    }
+}
+@media (max-width: 500px) {
+    .col-sm-6 {
+        padding-bottom: 20px;
+    }
+}
+
+.col-xs-2 {
+    text-align: left;
+    padding: 0px;
+}
+.col-sm-4{
+    text-align: left;
+}
+
+.col-xs-4, .jobs{
+    width: 33.33%;
+}
+
+.col-xs-4 .school{
+    width: 33.33%;
+}
+
+.font {
+    color: #2DA6AC;
+    display: inline;
+
+}
+.key-tags {
+    background-color: rgba(53, 172, 112, 0.7);
+    border-radius: 3px;
+    color: #FEFEFE;
+    padding: 4px 7px 4px 7px;
+    text-align: center;
+    display: inline-block;
+    margin: 0px 8px 8px 0;
+}
+.i-know-about {
+    text-align: left;
+}
+.tags-widget {
+    padding-top: 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+.summary {
+    font-size: 12px;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    text-align: left;
+}
+
+.in-progress {
+    color: darkorange;
+    font-size: 13px;
+}
+.completed {
+    color: #35AC70;
+    font-size: 13px;
+}
+
+.project {
+    max-width: 355px;
+}
+
+@keyframes scroll-reveal {
+    from {opacity: 0}
+    to {opacity: 100}
+}
+
+.reveal {
+    animation-name: scroll-reveal;
+    animation-duration: 1500ms;
+}
+.bullet li {
+    display: block;
+}
+
+.bullet li:before {
+    /*Using a Bootstrap glyphicon as the bullet point*/
+    content: "\e250";
+    font-family: 'Glyphicons Halflings';
+    font-size: inherit;
+    float: left;
+    margin-left: -40px;
+    color: inherit;
+    -webkit-padding-start: 15px;
+    text-align: justify;
+}
+.footer {
+    text-align: center;
+}
