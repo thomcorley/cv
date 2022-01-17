@@ -1,0 +1,69 @@
+Having graduated from university with a Physics degree, I followed my passion for food and embarked on a successful career as a chef. Seven years later, after having reached a senior position in <a href="https://thekitchin.com/" alt="The Kitchin Restaurant" title="The Kitchin Restaurant" target="_blank">one of the best restaurants in the country</a>, I realised that owning and running a restaurant wasn't what I wanted any more and decided upon a change.
+
+My transition to the world of software was made with relative ease. I had some experience in C from university and, coupled with some web design skills picked up whilst creating my food blog, I had a good starting point. I did an internship at<a href="https://www.gigabyte.software/" title="Gigabyte Group" alt="Gigabyte Group" target="_blank"> my brother's software company</a> to level up on programming and web technologies.
+
+I secured a job at <a href="https://www.freeagent.com/" alt="FreeAgent" title="FreeAgent website" target="_blank">FreeAgent</a> as Support Engineer, a second-tier role providing technical support to both customers and the first-line support team, which was an ideal role in which to further my experience in programming, debugging and problem solving. Two years later I was promoted to a software engineering role in the Banking Team where I learned to work in a team of 5 - 6 engineers operating within an agile scrum-like framework.
+
+With a wide range of programming experience under my belt in a relatively short space of time, I'm now ready to broaden my experience further and also put the skills I've learned to effective use. Ideally I'd like to find an engineering position in the food industry, which would combine my technical expertise with my domain knowledge in gastronomy.
+
+Omitted content -------------
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>SIDE PROJECTS</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 jobs-wide">
+                    <div class="project">
+                        <h4 class="project-title"><a href="https://www.grubdaily.com/" alt="" target="_blank">Grubdaily food blog</a></h4>
+                        <ul class="summary bullet">
+                            <li>Started in 2009, it's the main outlet for my food passion</li>
+                            <li>Used a variety of technologies over the years; first Blogspot, then Wordpress, then Jekyll and finally Rails</li>
+                            <li>Experience of developing and maintaining what is now a "legacy" application</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 jobs-wide">
+                    <div class="project">
+                        <h4 class="project-title"><a href="https://github.com/thomcorley/keller" alt="Keller" title="Keller" target="_blank">Keller</a></h4>
+                        <ul class="summary bullet">
+                            <li>A command line tool to find recipes matching a list of ingredients</li>
+                            <li>Using the API of my grubdaily food blog</li>
+                            <li>A pure ruby project – no framework used</li>
+                            <li>Primarily an exercise in code design and architecture</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+------------------------
+
+                    <p>
+                        After 16 months in Support Engineering I was moved to the engineering team as a Junior Software Engineer. I progressed rapidly and was subsequently promoted to Mid Level Software Engineer after just 7 months.
+                    </p>
+                    <p class="job-description">
+                        I worked in the Banking Team, which is responsible, among other things, for building and maintaining Open Banking bank feeds for 29 (at the last count) different banks. Learning about the Open Banking specification and how to integrate with the banks' slightly varying implemenations of it was fascinating and enjoyable.
+                    </p>
+                    <p class="job-description">
+                        I led and delivered a project to implement webhooks, to allow some of our API bank feed partners to receive real-time updates to their users' bank transactions within the application. It was a large project involving cross-team collaboration, with numerous technical and design considerations to be addressed along the way. It was a thoroughly rewarding experience from start to finish.
+                    </p>
+                    <p class="job-description">
+                        I've delivered numerous other projects over my time at FreeAgent and have learned the importance of maintaining a project post-release and the value of monitoring to detect issues early and also measure the success of the project.
+                    </p>
+                    <p class="job-description">
+                        More recently I worked on the Banking front end, learning React + Redux in order to add numerous updates and featurettes to the most heavily used part of the FreeAgent application. I've become adept at implementing features within a legacy React application, most of which is over 5 years old.
+                    </p>
+
+
+
+
+-----------------------
+
+
