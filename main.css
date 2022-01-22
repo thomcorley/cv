@@ -65,7 +65,7 @@ h1,
 h3,
 .h3 {
     font-size: 40px;
-    color: #DBDBDB;
+    color: #b8b8b8;
     font-weight: normal;
 }
 h2,
@@ -90,11 +90,11 @@ h4,
 h6,
 .h6 {
     font-size: 15px;
-    color: #DBDBDB;
+    color: #b8b8b8;
 }
 
 .roles {
-   color: #DBDBDB;
+   color: #b8b8b8;
 }
 
 .glyphicon {
